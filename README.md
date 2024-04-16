@@ -1,1 +1,1 @@
-# embedded-proj
+This is our embedded systems project on temperature control fan. It consists of 8 components which includes 3 sensors. When turned on,  the LED display has the temperature and threshold value. As normal batteries don’t support the 5V volt fan and LED we have incorporated an adaptor to power this circuit system. The DHT sensor senses the temperature and threshold value is adjusted using the potentiometer sensor. If temperature value exceeds the threshold value the fan is turned on else it comes to off state.
